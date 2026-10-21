@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# impeccable downloads its binary next to its launcher on first run
+skills/impeccable/scripts/bin/
+skills/impeccable/scripts/.cache/
